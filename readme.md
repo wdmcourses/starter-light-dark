@@ -1,7 +1,7 @@
 # Starter
 Starter for web development using native technologies.
 
-![Starter](https://raw.githubusercontent.com/wdmcourses/starter-light-dark/main/public/images/preview.jpg)
+![Starter](https://raw.githubusercontent.com/wdmcourses/starter-light-dark/refs/heads/master/public/images/preview.jpg)
 ```
 git clone https://github.com/wdmcourses/starter-light-dark . && rm -rf trunk .gitignore .git readme.md
 ```
